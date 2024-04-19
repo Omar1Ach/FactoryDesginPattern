@@ -1,0 +1,14 @@
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\bin\Debug\net8.0\FactoryDesginPattern.exe
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\bin\Debug\net8.0\FactoryDesginPattern.deps.json
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\bin\Debug\net8.0\FactoryDesginPattern.runtimeconfig.json
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\bin\Debug\net8.0\FactoryDesginPattern.dll
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\bin\Debug\net8.0\FactoryDesginPattern.pdb
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.AssemblyInfo.cs
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.dll
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\refint\FactoryDesginPattern.dll
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.pdb
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\FactoryDesginPattern.genruntimeconfig.cache
+C:\Users\Predator\source\repos\Design Pattern\FactoryDesginPattern\obj\Debug\net8.0\ref\FactoryDesginPattern.dll
